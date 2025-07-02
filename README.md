@@ -1,10 +1,13 @@
 # ⚠️ Important Notice
 
-The Windscribe Proxy SDK project is currently **under development and not yet complete**.  
-At this time, the SDK is **not available for use**, and its completion is still pending.
+The Windscribe Proxy SDK is currently under active development in a separate project.  
 
-We appreciate your patience as we work towards delivering a fully stable and functional SDK.
+Once the SDK reaches a stable and production-ready state, development of the **Windscribe Hub** project will begin here in this repository.  
 
-Please do not attempt to use this project in production or any critical environment until an official stable release is announced.
+At present, this repository does not contain any active SDK code or stable releases. It serves as the future home for the Windscribe Hub, which depends on the completion of the SDK.  
 
-Stay tuned for updates and thank you for your interest!
+Please do not expect to find usable code here yet, and avoid using this repository in production environments until the SDK is complete and the Hub project is officially underway.  
+
+Thank you for your understanding and support as we progress through these stages.
+
+— The Windscribe Team
